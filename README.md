@@ -16,7 +16,7 @@
 
 [การสมัคร Github](https://youtu.be/SL5h8s46tvU)
 
-[การสร้าง Github page](https://youtu.be/8AYyFAHKiHY)
+[การสร้าง Github pages](https://youtu.be/8AYyFAHKiHY)
 
 ------------------------------
 ตัวอย่าง Microcontroller ESP32
