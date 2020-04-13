@@ -12,7 +12,7 @@
 
 [บทสรุปการทดลองที่3](https://drive.google.com/file/d/1BYaAfLxxUOPbS_UKCbNQ3p_-YlLGFqU2/view?usp=sharing)
 
-[บทสรุปการทอลองที่4](https://drive.google.com/open?id=1_ms8X5ul8Hj0fGBVsySUEeQoZRpFh4ZT)
+[บทสรุปการทดลองที่4](https://drive.google.com/open?id=1_ms8X5ul8Hj0fGBVsySUEeQoZRpFh4ZT)
 
 [การสมัคร Github](https://youtu.be/SL5h8s46tvU)
 
